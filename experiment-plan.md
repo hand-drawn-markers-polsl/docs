@@ -2,6 +2,7 @@
 
 * **Scenes:**
   There are 20 photos in each scene, 10 without the mark and 10 with it.
+  Photos should have 1 by 1 ratio.
   Order of photos matter; first 10 taken in a scene should not contain the mark,
   then next 10 should.
   Strict ordering of photos will enable us to sort their names and
