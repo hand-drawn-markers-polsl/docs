@@ -24,8 +24,8 @@
     
     It is diserable to change colors of the mark between scenes.
 
-* **Series**: There are 12 scenes in every series.
-  A single series contains 12 * 20 = 240 photos.
+* **Series**: There are at least 12 scenes in every series.
+  A single series contains (at least) 12 * 20 = 240 photos.
   Series consist of scenes taken in the same environment and time of day.
   Series should be: 
     - One taken during day indoors with natural light.
